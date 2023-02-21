@@ -1,0 +1,24 @@
+From 9ab6f5793a095726e6735d009e269dde6316ecb9 Mon Sep 17 00:00:00 2001
+From: dailar <dailarse00@gmail.com>
+Date: Tue, 21 Feb 2023 07:55:40 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 584ba87..7dc117c 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-
+-
++1
++2
+ 
+ 
+ 
+-- 
+2.34.1
+
